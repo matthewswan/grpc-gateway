@@ -141,8 +141,8 @@ def go_repositories():
     go_repository(
         name = "com_github_coreos_etcd",
         importpath = "github.com/coreos/etcd",
-        sum = "h1:8F3hqu9fGYLBifCmRCJsicFqDx/D68Rt3q1JMazcgBQ=",
-        version = "v3.3.13+incompatible",
+        sum = "h1:0GQEw6h3YnuOVdtwygkIfJ+Omx0tZ8/QkVyXI4LkbeY=",
+        version = "v3.3.25+incompatible",
     )
     go_repository(
         name = "com_github_coreos_go_semver",
